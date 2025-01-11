@@ -282,3 +282,22 @@ nav button:hover{
     border: 2px solid #006A50;
     color: #006A50;
 }
+
+/*Footer style */
+footer{
+    padding: 50px 0px;
+    background-color: #FFFFFF;
+}
+footer h3{
+    font-size: 32px;
+    text-align: center;
+}
+footer hr{
+    margin: 32px 239px;
+    border-top: 2px solid rgba(14, 14, 14, 0.1);
+}
+.social-media-icons{
+    display: flex;
+    justify-content: center;
+    gap: 23px;
+}
