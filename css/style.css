@@ -16,10 +16,29 @@ nav {
     padding: 1rem 2rem;
 }
 
-.banner{
-    display: flex;
-    justify-content: space-between;
-    
+nav button {
+    border: 1px solid #006A50;
+    background-color: white;
+    text-align: center;
+    height: 30px;
+    width: 70px;
+    border-radius: 8px;
 }
 
-nav button {}
+/* Body Main design */
+
+main{
+    padding: 3rem 7rem ;
+    background-color: azure;
+}
+
+.banner{
+    background-color: #C6E4D6;
+    padding: 50px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+.leftBanner{
+    width: 60%;
+}
+
