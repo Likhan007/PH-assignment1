@@ -59,7 +59,7 @@ nav button:hover{
 .hero-section-btn{
     padding: 17px 34px;
     background-color: #006A50;
-    border: none;
+    /* border: none; */
     color: #FFFFFF;
     border-radius: 8px;
     font-size: 18px;
