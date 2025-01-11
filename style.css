@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fira-sans-thin {
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+}
+
+nav button {
+    border: 1px solid #006A50;
+    background-color: white;
+    text-align: center;
+    height: 30px;
+    width: 70px;
+    border-radius: 8px;
+}
+
+/* Body Main design */
+
