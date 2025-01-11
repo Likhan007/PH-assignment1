@@ -155,3 +155,50 @@ nav button:hover{
     font-size: 20px;
     font-weight: bold;
 }
+
+/*Recent-News-styles*/
+.news{
+    margin: 0px 160px 80px 160px;
+}
+.news-items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    padding: 48px;
+    border-radius: 24px;
+    margin-top: 32px;
+    background-color: #FFFFFF;
+}
+.recent-img{
+    border-radius: 24px;
+}
+.recent-title{
+    font-size: 32px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 0.8);
+}
+.time-date, .recent-description{
+    display: flex;
+    gap: 12px;
+    line-height: 24px;
+    margin-bottom: 12px;
+    color: rgba(14, 14, 14, 0.7);
+}
+.recent-logo{
+    margin: 12px 0px;
+}
+.recent-btn{
+    padding: 13px 26px;
+    margin-top: 20px;
+    background-color: #006A50;
+    color: #FFFFFF;
+    border-radius: 8px;
+    border: none;
+    font-size: 18px;
+}
+.recent-btn:hover{
+    color: #006A50;
+    background-color: #FFFFFF;
+    border: 2px solid #006A50;
+}
